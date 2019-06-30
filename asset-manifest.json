@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Leaderboard-test/./static/css/main.4c247855.chunk.css",
+    "main.js": "/Leaderboard-test/./static/js/main.76771cb0.chunk.js",
+    "main.js.map": "/Leaderboard-test/./static/js/main.76771cb0.chunk.js.map",
+    "runtime~main.js": "/Leaderboard-test/./static/js/runtime~main.452f5753.js",
+    "runtime~main.js.map": "/Leaderboard-test/./static/js/runtime~main.452f5753.js.map",
+    "static/js/2.1132617f.chunk.js": "/Leaderboard-test/./static/js/2.1132617f.chunk.js",
+    "static/js/2.1132617f.chunk.js.map": "/Leaderboard-test/./static/js/2.1132617f.chunk.js.map",
+    "index.html": "/Leaderboard-test/./index.html",
+    "precache-manifest.a5fc00c6f3a2ad932a2eda846ff63d3c.js": "/Leaderboard-test/./precache-manifest.a5fc00c6f3a2ad932a2eda846ff63d3c.js",
+    "service-worker.js": "/Leaderboard-test/./service-worker.js",
+    "static/css/main.4c247855.chunk.css.map": "/Leaderboard-test/./static/css/main.4c247855.chunk.css.map",
+    "static/media/liam-avatar-round.png": "/Leaderboard-test/./static/media/liam-avatar-round.8e036976.png",
+    "static/media/logo.svg": "/Leaderboard-test/./static/media/logo.5d5d9eef.svg"
+  }
+}
