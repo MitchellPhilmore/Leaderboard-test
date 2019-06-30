@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Pathway+Gothic+One&display=swap');
+
+.userRank{
+    background: black;
+    color:white;
+    height:45vh;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    background-color: rgba(0, 0, 0, 0.2);
+    flex-wrap: wrap;
+}
+.rating{
+    font-size:125%;
+    font-weight: 500;
+    
+}
+
+.userRank-header{
+    color:white;
+}
+
+.user-avatar{
+    height:200px;
+    width:200px;
+    align-self: flex-end;
+    border-radius:50%;
+    border:2px solid white;
+}
+
+.break {
+    flex-basis: 100%;
+    height: 0;
+  }
+
+  .rank{
+      align-self: center;
+      padding: 20px;
+      
+  }
+  .number{
+      justify-self: flex-end;
+  }
+
+  h2{
+      color:white;
+      font-size:130%;
+      font-family: 'Pathway Gothic One', sans-serif;
+  }
